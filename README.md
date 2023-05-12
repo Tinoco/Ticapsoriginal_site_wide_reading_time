@@ -54,5 +54,5 @@ Ticapsoriginal calculates total time to read an entire site based on all sitemap
 
 * [`0% code plagiarism detected`](https://github.com/blingenf/copydetect)
 
-
-
+## about:
+* code and resource used in [`Ticapsoriginal`](https://ticapsoriginal.com)
